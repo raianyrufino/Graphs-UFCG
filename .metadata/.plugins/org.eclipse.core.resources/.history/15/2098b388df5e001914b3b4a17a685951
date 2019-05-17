@@ -1,0 +1,9 @@
+import org.jgrapht.*;
+import org.jgrapht.graph.DefaultEdge;
+
+public class teste {
+	public static void main(String[] args) {
+		
+		Graph<String, DefaultEdge> graph = new SimpleGraph<String, efaultEdge> (DefaultEdge.class);
+	}
+}
